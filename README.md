@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Jarvis - AI Chatbot
 
 ## Description
